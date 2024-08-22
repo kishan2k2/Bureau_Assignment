@@ -3,6 +3,8 @@
 
 ## Next optimisations and plans to do.
 
+Output should be categorial values and not binary values change that.
+
 I had removed and replaced all the categorical values with pca componenets.
 
 Now I will add some of categrorical columns back, which has binary or tertiary values.
